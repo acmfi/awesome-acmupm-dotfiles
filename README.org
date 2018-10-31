@@ -1,0 +1,39 @@
+* Dotfiles
+  Son una serie de archivos de configuración personalizados que sirven para añadir mejoras de funcionalidad o apariencia.
+  
+  Entre todo el software que podemos encontrar con dotfiles, el más destacado es:
+** Editores de texto
+   Emacs, vim...
+** Entornos de escritorio:
+   i3wm, xmonad, bspwm, awesome-wm...
+** Shells:
+   Bash, fish, zsh...
+** Elementos adicionales:
+   polybar, lemonbar, i3blocks, rofi...
+  
+* Nuestros repositorios
+** i3
+   - @Ironjanowar: https://github.com/Ironjanowar/i3wm-config
+
+** emacs
+   - @Ironjanowar: https://github.com/Ironjanowar/.emacs.d (Viene con una buena guía)
+   - @samgh96: https://github.com/samgh96/emacsgit
+   - @ignaciobll: https://github.com/ignaciobll/.emacs.d
+   - @rockneurotiko: https://github.com/rockneurotiko/emacs.d
+   - @palomatanis: https://github.com/palomatanis/dotemacs
+   - @DavidMazarro: https://github.com/DavidMazarro/my-emacs-config
+
+** awesome
+   - @palomatanis: https://github.com/palomatanis/dotfiles (también incluye varios alias muy útiles en el .zshrc)
+
+** xmonad
+   - @coyote3007: https://github.com/coyote3007/XmonadConfig
+
+** General
+   - @TheRealisticMan: https://github.com/TheRealisticMan/dots (i3, emacs, oscuro y verde)
+   - @andsanmar: https://github.com/andsanmar/dotfiles (i3, emacs, polybar, urxvt)
+   - @svg153: https://github.com/svg153/configLinux (xfce, viene con un script para instalar las dependencias)
+
+* Más
+  En https://dotfiles.github.io/ encontrarás gran serie de repositorios con dotfiles de todo tipo, también contiene una serie de tutoriales para crear tus propios dotfiles
+  En https://www.reddit.com/r/unixporn/ encontrarás configuraciones que destacan en apariencia.
